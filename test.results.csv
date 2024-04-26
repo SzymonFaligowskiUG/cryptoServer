@@ -1,0 +1,5 @@
+case,time
+register,45.636834ms
+good login,24.48275ms
+bad login,19.859208ms
+srever try decode,19.859208ms
